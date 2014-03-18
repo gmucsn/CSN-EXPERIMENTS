@@ -1,4 +1,0 @@
-CSN-EXPERIMENTS
-===============
-
-CSN EXPERIMENTS
